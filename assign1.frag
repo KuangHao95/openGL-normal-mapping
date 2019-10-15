@@ -2,8 +2,6 @@
 
 //============================================================================
 // STUDENT NAME: Kuang Hao
-// MATRIC NO.  : A0191488N
-// NUSNET ID   : E0338132
 // COMMENTS TO GRADER: For task 2, I scale the height of bump, computed perturbed 
 // normal vector in eye space, and output color with ambient & diffuse factors.
 // For task 3, I followed the lecture note. For bump area, I construct 
